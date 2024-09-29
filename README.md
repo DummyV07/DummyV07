@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **DummyV07/DummyV07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DummyV07)
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=山与山不见面;再见容易再见难)
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DummyV07)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DummyV07)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=DummyV07)
